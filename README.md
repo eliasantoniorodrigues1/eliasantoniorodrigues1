@@ -13,7 +13,7 @@
 - ⚡ Fato engraçado: Sou o caçula de 10 irmãos!
 - :red_circle:​ Pós graduando em Business Intelligence & Analytics...Excel foi onde tudo começou. 
 - :ledger: Entusiasta de Power BI e Dados
-- ​💰 Gestão Financeira
+- ​💰 Tecnólogo em Gestão Financeira
 
 ### Meus contatos:
 
