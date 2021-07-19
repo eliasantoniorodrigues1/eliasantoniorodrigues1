@@ -6,15 +6,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrigues_3l14S?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrigues_3l14S)
 
 ### Sou Casado, amante de boa música e adoro desafios.<br> Analista de RPA e Dev por paixão!
-
-- 🌱 Atualmente estou estudando Django/Flask, JavaScript e muito CSS!!!
+ 
+ - 🌱 Atualmente estou estudando Django/Flask, JavaScript e muito CSS!!!
 - 👯 Gosto de contribuir com a comunidade, então se achar que posso te ajudar em algo, estou a disposição.
 - 🥅 Objetivos 2021: Tirar mais uma certificação de Python e alcançar um nível satisfatório em desenvolvimento Web.
 - ⚡ Fato engraçado: Sou o caçula de 10 irmãos!
-
-<!-- ### Youtube Music Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+- :red_circle:​ Pós graduando em Business Intelligence & Analytics...Excel foi onde tudo começou. 
+- :ledger: Entusiasta de Power BI e Dados
 
 ### Meus contatos:
 
