@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=BUSINESS-CALCULATOR&style=for-the-badge&url=https://business-calculator-br.herokuapp.com/index.html)](https://business-calculator-br.herokuapp.com/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrigues_3l14S?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrigues_3l14S)
 
-## Sou Casado, amante de boa música e adoro desafios. Analista de RPA e Dev por paixão!
+## Sou Casado, amante de boa música e adoro desafios.<br> Analista de RPA e Dev por paixão!
 
 - 🌱 Atualmente estou estudando Django/Flask, JavaScript e muito CSS!!!
 - 👯 Gosto de contribuir com a comunidade, então se achar que posso te ajudar em algo, estou a disposição.
