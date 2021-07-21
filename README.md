@@ -46,7 +46,7 @@
   <img align="left" alt="eliasantoniorodrigues1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eliasantoniorodrigues1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </details>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=eliasantoniorodrigues1.eliasantoniorodrigues1)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=eliasantoniorodrigues1.visitor-badge)
 
 [website]: https://business-calculator-br.herokuapp.com/index.html
 <!-- [course]: http://vsCodeHero.com -->
