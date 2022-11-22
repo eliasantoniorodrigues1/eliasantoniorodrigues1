@@ -16,6 +16,7 @@
 - ​💰 Tecnólogo em Gestão Financeira
 
 ### Work in progress...
+Time coding SINCE JUL 28 2021
 [![wakatime](https://wakatime.com/badge/user/20eb4b29-62e8-46cf-8b06-ce93afa23926.svg)](https://wakatime.com/@20eb4b29-62e8-46cf-8b06-ce93afa23926)
 
 ### Meus contatos:
