@@ -15,6 +15,9 @@
 - :ledger: Entusiasta de Power BI e Dados
 - ​💰 Tecnólogo em Gestão Financeira
 
+### Work in progress...
+[https://wakatime.com/@20eb4b29-62e8-46cf-8b06-ce93afa23926]
+
 ### Meus contatos:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
