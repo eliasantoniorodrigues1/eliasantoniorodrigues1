@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=BUSINESS-CALCULATOR&style=for-the-badge&url=https://business-calculator-br.herokuapp.com/index.html)](https://business-calculator-br.herokuapp.com/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rodrigues_3l14S?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rodrigues_3l14S)
 
-### Sou Casado, amante de boa música e adoro desafios.<br> Analista de RPA e Dev por paixão!
+### Sou Casado, amante de boa música e adoro desafios.<br> Analista de Dados / Engenheiro de Dados e Dev por paixão!
  
  - 🌱 Atualmente estou estudando Django/Flask/Pywinauto, JavaScript e muito CSS!!!
 - 👯 Gosto de contribuir com a comunidade, então se achar que posso te ajudar em algo, estou a disposição.
@@ -14,6 +14,10 @@
 - :red_circle:​ Pós graduando em Business Intelligence & Analytics...Excel foi onde tudo começou. 
 - :ledger: Entusiasta de Power BI e Dados
 - ​💰 Tecnólogo em Gestão Financeira
+
+### Últimos Projetos:
+ - SGT - Criação de um sistema personalizado para gerenciar as turmas de treinamento da minha esposa. Projeto realizado em Django para o backend e bootstrap e htmx para o frontend.
+ - Unnest Data From Json - Projeto criado em python usando recursão para varrer qualquer json em qualquer nível de aninhamento exibindo os dados em formato de tabela para facilitar o uso em planilhas de Excel e Power BI <a href="https://github.com/eliasantoniorodrigues1/unnest_data_from_json"><img src="https://img.shields.io/badge/-repositorio-FFFF00?style=for-the-badge&logo=repositorio&logoColor=black"></a>
 
 ### Work in progress...
 #### Time coding SINCE JUL 28 2021
