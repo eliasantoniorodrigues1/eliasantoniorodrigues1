@@ -17,6 +17,7 @@
 
 ### Últimos Projetos:
  - SGT - Criação de um sistema personalizado para gerenciar as turmas de treinamento da minha esposa. Projeto realizado em Django para o backend e bootstrap e htmx para o frontend.
+   (https://eliasantoniorodrigues1.pythonanywhere.com/gestao/)
  - Unnest Data From Json - Projeto criado em python usando recursão para varrer qualquer json em qualquer nível de aninhamento exibindo os dados em formato de tabela para facilitar o uso em planilhas de Excel e Power BI <a href="https://github.com/eliasantoniorodrigues1/unnest_data_from_json"><img src="https://img.shields.io/badge/-repositorio-FFFF00?style=for-the-badge&logo=repositorio&logoColor=black"></a>
 
 ### Work in progress...
